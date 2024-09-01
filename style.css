@@ -1,0 +1,60 @@
+h1{
+    color: Blue;
+    font-size:50px;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom:20px;
+}
+h2{
+    text-align:center;
+    font-size:100px;
+}
+li{
+    font-size:40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
+.mai-multe{
+    display: block;
+    width: auto;
+    margin: 0 auto;
+    margin-top:100px;
+    border-radius:10%;
+    border-width:2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:30px;
+    padding-right:30px;
+    border-color:rgb(40, 120, 210);
+    background-color: white;
+    border-radius:5px;
+    color:rgb(40, 120, 210);
+    transition:background-color 0.2s;
+}
+.mai-multe:hover{
+    background-color:rgb(40, 120, 210);
+    color:white;
+}
+.inapoi{
+    display: block;
+    width: auto;
+    margin: 0 auto;
+    margin-top:100px;
+    border-radius:10%;
+    border-width:2px;
+    padding-top:110px;
+    padding-bottom:110px;
+    padding-left:130px;
+    padding-right:130px;
+    border-color:rgb(40, 120, 210);
+    background-color: white;
+    border-radius:5px;
+    color:rgb(40, 120, 210);
+    transition:background-color 0.2s;
+}
+.inapoi:hover{
+    background-color:rgb(40, 120, 210);
+    color:white;
+}
